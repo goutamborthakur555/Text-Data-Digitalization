@@ -1,0 +1,14 @@
+pandas
+numpy
+seaborn
+scikit-learn
+matplotlib
+streamlit
+regex
+urllib3
+XlsxWriter
+pybase64
+pillow
+PyPDF2
+pdf2image
+pytesseract
